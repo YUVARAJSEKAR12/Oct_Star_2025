@@ -115,8 +115,13 @@ public class Base {
 	public static void test3() {
 		System.out.println("test3");
 	}
+
 	public static void test4() {
 		System.out.println("test4");
+	}
+	public static void test5() {
+		System.out.println("test5");
+ 
 	}
 
 }
