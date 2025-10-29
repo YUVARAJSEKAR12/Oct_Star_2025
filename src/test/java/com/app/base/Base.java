@@ -12,7 +12,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class Base {
-
+    //changes
+	// changes for fetch
 	public static WebDriver driver = null;
 	public static Properties prop = new Properties();
 	public static Select s;
@@ -114,6 +115,14 @@ public class Base {
 
 	public static void test3() {
 		System.out.println("test3");
+	}
+
+	public static void test4() {
+		System.out.println("test4");
+	}
+	public static void test5() {
+		System.out.println("test5");
+ 
 	}
 
 }
