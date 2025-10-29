@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class Base {
-
+    //changes
 	public static WebDriver driver = null;
 	public static Properties prop = new Properties();
 	public static Select s;
