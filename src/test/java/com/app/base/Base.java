@@ -125,5 +125,9 @@ public class Base {
 		System.out.println("test5");
  
 	}
+	public static void test6() {
+		System.out.println("test5");
+ 
+	}
 
 }
